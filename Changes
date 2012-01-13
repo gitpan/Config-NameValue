@@ -1,0 +1,10 @@
+Revision history for Config-NameValue
+
+1.01      2012-01-12 19:17:01 America/Boise
+  - Added coverage and other tests
+  - Tweaked dist.ini and weaver.ini files
+  - Initial release to the CPAN
+
+1.00   2011-12-20
+  - Initial Creation
+  - Changes I've been wanting to make from original code
