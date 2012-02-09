@@ -223,7 +223,7 @@ Config::NameValue - Round trip simple name/value config file handling.
 
 =head1 VERSION
 
-  This document describes v1.01 of Config::NameValue - released January 12, 2012 as part of Config-NameValue.
+  This document describes v1.03 of Config::NameValue - released February 09, 2012 as part of Config-NameValue.
 
 =head1 SYNOPSIS
 

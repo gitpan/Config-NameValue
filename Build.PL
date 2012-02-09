@@ -29,7 +29,7 @@ my %module_build_args = (
     "Alan Young <harleypig\@gmail.com>"
   ],
   "dist_name" => "Config-NameValue",
-  "dist_version" => "1.01",
+  "dist_version" => "1.03",
   "license" => "perl",
   "module_name" => "Config::NameValue",
   "recommends" => {},
